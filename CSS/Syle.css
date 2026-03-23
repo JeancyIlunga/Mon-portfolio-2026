@@ -132,3 +132,4 @@ a.active::after {
     background-color: var(--violet-fonce);
     transform: translateY(-3px);
 }
+{}
